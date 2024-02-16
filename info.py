@@ -37,8 +37,8 @@ auth_grp = environ.get('AUTH_GROUP')
 AUTH_GROUPS = [int(ch) for ch in auth_grp.split()] if auth_grp else None
 
 # MongoDB information
-DATABASE_URI = environ.get('DATABASE_URI', "mongodb://clsp319bj0006a6me8u1kc330:mSxHJ3JlsIfbx9afzbf00wWN@104.251.218.202:9005/?readPreference=primary&ssl=false")
-DATABASE_NAME = environ.get('DATABASE_NAME', "Rajappan")
+DATABASE_URI = environ.get('DATABASE_URI', "mongodb://cls4kd5g3000haume5jvkgfdw:8guhdHhwbCusORBbhXAdAJ9o@104.251.218.202:9000/?readPreference=primary&ssl=false")
+DATABASE_NAME = environ.get('DATABASE_NAME', "Rajappantest123")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 # FSUB
 auth_channel = environ.get('AUTH_CHANNEL')
