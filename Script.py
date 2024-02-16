@@ -1,12 +1,12 @@
 class script(object):
     START_TXT = """<b>
 Hy {},
-I'm a bot made for @Cinema_Beacon_Group!  I can help you find movies.🙂 For any enquiry contact Admin @SNEAK5166</b>"""
+I'm a bot made for @videshayathra_official!  I can help you find movies.🙂 For any enquiry contact Admin @SNEAK5166</b>"""
 
     CAPTION = """
 <b>{file_name}
 
-⚜️ Join @Cinema_Beacon_Group​</b>"""
+⚜️ Join @videshayathra_official​</b>"""
 
     
     HELP_TXT = """<i>🙋🏻‍♂️   𝖧𝖾𝗅𝗅𝗈𝗈𝗈  {} 🤓
@@ -14,17 +14,17 @@ I'm a bot made for @Cinema_Beacon_Group!  I can help you find movies.🙂 For an
 ○  𝖲𝖾𝖺𝗋𝖼𝗁 𝗎𝗌𝗂𝗇𝗀 𝗂𝗇𝗅𝗂𝗇𝖾 𝗆𝗈𝖽𝖾...⭐
 𝖳𝗁𝗂𝗌 𝗆𝖾𝗍𝗁𝗈𝖽 𝗐𝗈𝗋𝗄𝗌 𝗈𝗇 𝖺𝗇𝗒 𝖼𝗁𝖺𝗍, 𝖩𝗎𝗌𝗍 𝗍𝗒𝗉𝖾 <b>Bot Username</b> 𝖺𝗇𝖽 𝗍𝗁𝖾𝗇 𝗅𝖾𝖺𝗏𝖾 𝖺 𝗌𝗉𝖺𝖼𝖾 𝖺𝗇𝖽 𝗌𝖾𝖺𝗋𝖼𝗁 𝖺𝗇𝗒 𝗆𝗈𝗏𝗂𝖾 𝗒𝗈𝗎 𝗐𝖺𝗇𝗍..."""
     ABOUT_TXT = """<b>🥱 My Name : {}
-🕵‍♂ Dᴇᴠᴏʟᴏᴘᴇʀ: <a href='https://t.me/Sathan_Of_Telegram'>★『🔱』Dr.സാത്താൻ★</a>
+🕵‍♂ Dᴇᴠᴏʟᴏᴘᴇʀ: <a href='https://t.me/BL4CK_DEMEN'>★Black Demon</a>
 📚 Lɪʙʀᴀʀʏ: <a href='https://docs.pyrogram.org/'>Pʏʀᴏɢʀᴀᴍ</a>
 🖥 Lᴀɴɢᴜᴀɢᴇ: <a href='https://www.python.org/download/releases/3.0/'>Pʏᴛʜᴏɴ 3</a>
 🎪 DᴀᴛᴀBᴀsᴇ : <a href='https://www.mongodb.com/'>MᴏɴɢᴏDB</a>
-🔋 Bᴏᴛɢʀᴏᴜᴘ : @Cinemaathattakam_Group </b>"""
+🔋 Bᴏᴛɢʀᴏᴜᴘ : @videshayathra_official </b>"""
     SOURCE_TXT = """<b>NOTE:</b>
 <b>⚠️ᴛʜɪꜱ ʙᴏᴛ ɪꜱ ɴᴏᴛ ᴀɴ  ᴏᴘᴇɴ ꜱᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ
 ◆ ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : 𝖭𝖮𝖳 𝖠𝖵𝖠𝖨𝖫𝖠𝖡𝖫𝖤 𝖱𝖨𝖦𝖧𝖳 𝖭𝖮𝖶
-◆ ᴀᴜᴛᴏ ꜰɪʟᴛᴇʀ : <a href=https://github.com/sathanxavier1998/autofilterctv5>[𝐂𝐓™]𝐀𝐮𝐭𝐨𝐟𝐢𝐥𝐭𝐞𝐫𝐛𝐨𝐭V3</a>
-◆ ʟᴏᴠᴇ ꜰʀᴏᴍ :  <a href=https://t.me/CT_Arena>Cinemaathattakam™</a>
-◆ Qᴜᴇʀɪᴇꜱ : <a href=https://t.me/Sathan_Of_Telegram>King</a></b>"""
+◆ ᴀᴜᴛᴏ ꜰɪʟᴛᴇʀ : <a href=http://t.me/+TtBFG5gjK4xkNzlh>[𝐂𝐓™]𝐀𝐮𝐭𝐨𝐟𝐢𝐥𝐭𝐞𝐫𝐛𝐨𝐭V3</a>
+◆ ʟᴏᴠᴇ ꜰʀᴏᴍ :  <a href=https://t.me/filims_18>Cinemaathattakam™</a>
+◆ Qᴜᴇʀɪᴇꜱ : <a href=https://t.me/BL4CK_DEMEN>King</a></b>"""
     MANUELFILTER_TXT = """ʜᴇʟᴘ: <b>ꜰɪʟᴛᴇʀꜱ</b>
 - ꜰɪʟᴛᴇʀ ɪꜱ ᴀ ꜰᴇᴀᴛᴜʀᴇ ᴡᴇʀᴇ ᴜꜱᴇʀꜱ ᴄᴀɴ ꜱᴇᴛ ᴀᴜᴛᴏᴍᴀᴛᴇᴅ ʀᴇᴘʟɪᴇꜱ ꜰᴏʀ ᴀ ᴘᴀʀᴛɪᴄᴜʟᴀʀ ᴋᴇʏᴡᴏʀᴅ ᴀɴᴅ ɪ ᴡɪʟʟ ʀᴇꜱᴘᴏɴᴅ ᴡʜᴇɴᴇᴠᴇʀ ᴀ ᴋᴇʏᴡᴏʀᴅ ɪꜱ ꜰᴏᴜɴᴅ ɪɴ ᴛʜᴇ ᴍᴇꜱꜱᴀɢᴇ
 
@@ -47,7 +47,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 3. ʙᴜᴛᴛᴏɴꜱ ꜱʜᴏᴜʟᴅ ʙᴇ ᴘʀᴏᴘᴇʀʟʏ ᴘᴀʀꜱᴇᴅ ᴀꜱ ᴍᴀʀᴋᴅᴏᴡɴ ꜰᴏʀᴍᴀᴛ
 
 <b>URL buttons:</b>
-<code>[Button Text](buttonurl:https://t.me/Autofiltersathan_V2_bot)</code>
+<code>[Button Text](buttonurl:https://t.me/Filims18bot)</code>
 
 <b>Alert buttons:</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>"""

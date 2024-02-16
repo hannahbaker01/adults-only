@@ -452,7 +452,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('⇋ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ⇌', url='http://t.me/TGxMULTIBOT?startgroup=true')
         ],[
             InlineKeyboardButton('ʜᴇʟᴘ', callback_data='help'),
-            InlineKeyboardButton('ɢʀᴏᴜᴘs', url='https://t.me/Cinema_Beacon_Group'),
+            InlineKeyboardButton('ɢʀᴏᴜᴘs', url='https://t.me/videshayathra_official'),
             InlineKeyboardButton('ᴀʙᴏᴜᴛ', callback_data='about')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)

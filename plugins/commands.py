@@ -22,7 +22,7 @@ BATCH_FILES = {}
 START_TXT = """<b>
 Hᴇʟʟᴏ {}
     
-Sᴏʀʀʏ ɪ ᴏɴʟʏ ᴡᴏʀᴋ ᴏɴ <a href='https://t.me/Cinema_Beacon_Group'>CɪɴɪᴍᴀBᴇᴀᴄᴏɴ Gʀᴏᴜᴘ</a>. Nᴏ ᴏᴛʜᴇʀ ᴄᴏᴍᴍᴀɴᴅ ᴡɪʟʟ ᴡᴏʀᴋ ᴏɴ ᴛʜɪs ʙᴏᴛ ᴇxᴄᴇᴘᴛ ᴘɪɴɢ. ᴅᴏɴ’ᴛ ᴡᴀsᴛᴇ ʏᴏᴜʀ ᴛɪᴍᴇ</b>"""
+Sᴏʀʀʏ ɪ ᴏɴʟʏ ᴡᴏʀᴋ ᴏɴ <a href='https://t.me/videshayathra_official'>CɪɴɪᴍᴀBᴇᴀᴄᴏɴ Gʀᴏᴜᴘ</a>. Nᴏ ᴏᴛʜᴇʀ ᴄᴏᴍᴍᴀɴᴅ ᴡɪʟʟ ᴡᴏʀᴋ ᴏɴ ᴛʜɪs ʙᴏᴛ ᴇxᴄᴇᴘᴛ ᴘɪɴɢ. ᴅᴏɴ’ᴛ ᴡᴀsᴛᴇ ʏᴏᴜʀ ᴛɪᴍᴇ</b>"""
 
 @Client.on_message(filters.command("start") & filters.incoming)
 async def start(client, message):
